@@ -1,0 +1,6 @@
+{
+  "name": "Rock music",
+  "description": "Application téléchargeable de streaming et téléchargement de musiques et vidéos HD pour les artistes de la RDC, du Congo Brazzaville et du monde entier avec recherche par pays, mode hors ligne et récompenses en argent réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
